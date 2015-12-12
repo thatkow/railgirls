@@ -56,3 +56,4 @@ end
 gem "rspec-rails", :group => [:development, :test]
 gem 'carrierwave'
 gem 'mini_magick'
+ 
